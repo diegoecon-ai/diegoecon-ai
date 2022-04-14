@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Itau Bank
 - 🌱 I’m currently learning ... Cloud Dev Technologies
