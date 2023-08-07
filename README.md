@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Itau Bank
 - 🌱 I’m currently learning ... Cloud Dev Technologies
 - 👯 I’m looking to collaborate on ... Data Pipelines
 - 🤔 I’m looking for help with ... AWS, GCP and Azure
