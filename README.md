@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Kaggle Profile](https://www.kaggle.com/diegorojasdiaz)
 - 😄 Pronouns: ... He/Him/Mr
-- ⚡ Fun fact: ... I like trying to adjust different kind of curves, curves are beautiful in every form of expression and math is like poetry to describe them🌀➿🪢
+- ⚡ Fun fact: ... I like trying to fit different kind of curves, curves are beautiful in every form of expression and math is like poetry to describe them🌀➿🪢
 -->✨
