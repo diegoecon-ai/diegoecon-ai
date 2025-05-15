@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning ... Cloud Dev Technologies
+- 🌱 I’m currently learning ... Cloud Dev Technologies and Finance Quant
 - 👯 I’m looking to collaborate on ... Data Pipelines
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Kaggle Profile](https://www.kaggle.com/diegorojasdiaz)
